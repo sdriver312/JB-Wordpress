@@ -1,0 +1,10 @@
+/** ADMIN STYLES **/
+
+.custom_post_manager_admin_extras div {
+	margin: 10px;
+}
+
+.custom_post_manager_admin_extras div label {
+	width: 100px;
+	float: left; 
+}

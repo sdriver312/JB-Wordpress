@@ -1,0 +1,10 @@
+/** ADMIN STYLES **/
+
+.work_history_manager_extras div {
+	margin: 10px;
+}
+
+.work_history_manager_extras div label {
+	width: 100px;
+	float: left; 
+}

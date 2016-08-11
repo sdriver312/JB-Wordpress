@@ -1,0 +1,10 @@
+/** ADMIN STYLES **/
+
+.experience_manager_extras div {
+	margin: 10px;
+}
+
+.experience_manager_extras div label {
+	width: 100px;
+	float: left; 
+}
